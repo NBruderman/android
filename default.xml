@@ -514,7 +514,7 @@
   <project path="vendor/samsung" name="GearOMNI/proprietary_vendor_samsung" revision="android-4.4" />
 
   <!-- GearCM Customized Repositories -->
-  <project path="android" name="GearCM/android" />
+  <project path="android" name="GearCM/android" revision="cm-11.0_new" />
   <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
   <project path="packages/apps/Screencast" name="namelessrom/android_packages_apps_Screencast" revision="android-4.4" />
