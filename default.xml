@@ -27,7 +27,6 @@
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="bootable/recovery-cm" name="CyanogenMod/android_bootable_recovery-cm" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.4.4_r2" groups="cts" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
@@ -514,6 +513,7 @@
   <project path="vendor/samsung" name="GearOMNI/proprietary_vendor_samsung" revision="android-4.4" />
 
   <!-- GearCM Customized Repositories -->
+  <project path="bootable/recovery" name="ArchiDroid/android_bootable_recovery" revision="cm-12.0" />
   <project path="android" name="GearCM/android" revision="cm-11.0_new" />
   <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
