@@ -491,7 +491,7 @@
   <project path="build" name="CyanogenMod/android_build" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="bootable/recovery" name="omnirom/android_bootable_recovery" revision="android-5.1" />
+  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
   <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
