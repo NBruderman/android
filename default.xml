@@ -487,7 +487,7 @@
 
   <!-- GearCM Customized Repositories -->
   <project path="android" name="NBruderman/android" />
-  <project path="packages/apps/Screencast" name="namelessrom/android_packages_apps_Screencast" revision="n-2.0" />
+  <project path="packages/apps/Screencast" name="namelessrom/android_packages_apps_Screencast" revision="n-2.1" />
 
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="build" name="CyanogenMod/android_build" >
