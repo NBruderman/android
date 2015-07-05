@@ -514,6 +514,7 @@
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
   <project path="hardware/samsung_slsi/exynos" name="CyanogenMod/android_hardware_samsung_slsi_exynos" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
+  <project path="packages/apps/Synapse" name="GearCM/android_packages_apps_Synapse" />
 
   <!-- Common Devices Repositories -->
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
