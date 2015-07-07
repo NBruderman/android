@@ -515,6 +515,7 @@
   <project path="hardware/samsung_slsi/exynos" name="CyanogenMod/android_hardware_samsung_slsi_exynos" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" />
   <project path="packages/apps/Synapse" name="GearCM/android_packages_apps_Synapse" />
+  <project path="packages/apps/OTAUpdates" name="MatthewBooth/OTAUpdates" revision="aosp" />
 
   <!-- Common Devices Repositories -->
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
